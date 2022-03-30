@@ -1,9 +1,12 @@
-## Olá! Eu sou o Guilherme Vieira, estudante de TI 👋
+## Olá! Eu sou o Guilherme Vieira, Estudante de TI👋
 
 - 📘 Estudando Gestão de tecnologia da informação.
 - 📘 Estudando Desenvolvimento Web.
 - 🌱 Atualmente estou aprendendo desenvolvimento Front-End.
 - 😄 Pronouns: Ele/Dele.
+- 🔍 Em busca do primeiro emprego.
+- 🔍 Atualmente estou em busca de uma oportunidade para demonstrar oque aprendi até o momento e adquirir mais conhecimento na área de desenvolvimento.
+ <br>
 
 <div align="center">
   <a href="https://github.com/Guivieirasilva">
