@@ -1,22 +1,27 @@
 ## Olá! Eu sou o Guilherme Vieira, Estudante de TI👋
 
-- 📘 Estudando Gestão de tecnologia da informação.
-- 📘 Estudando Desenvolvimento Web.
+- 📘 Estudando Gestão de tecnologia da informação - 4° Semestre.
+- 📘 Estudando Desenvolvimento Web Full-Stack.
 - 🌱 Atualmente estou aprendendo desenvolvimento Front-End.
 - 😄 Pronouns: Ele/Dele.
-- 🔍 Em busca do primeiro emprego.
+- 🔍 Em busca do primeiro emprego com Desenvolvedor Junior.
 - 🔍 Atualmente estou em busca de uma oportunidade para demonstrar oque aprendi até o momento e adquirir mais conhecimento na área de desenvolvimento.
  <br>
-
 <div align="center">
   <a href="https://github.com/Guivieirasilva">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Guivieirasilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guivieirasilva&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+<span>Stacks</span>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Gui-nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gui-express" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img align="center" alt="Gui-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img align="center" alt="Gui-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="Gui-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
   ##
