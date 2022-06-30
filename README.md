@@ -2,7 +2,7 @@
 
 - 📘 Estudando Gestão de tecnologia da informação - 4° Semestre.
 - 📘 Estudando Desenvolvimento Web Full-Stack.
-- 🌱 Atualmente estou aprendendo desenvolvimento Front-End.
+- 🌱 Atualmente estou aprendendo desenvolvimento Back-End.
 - 😄 Pronouns: Ele/Dele.
 - 🔍 Em busca do primeiro emprego com Desenvolvedor Junior.
 - 🔍 Atualmente estou em busca de uma oportunidade para demonstrar oque aprendi até o momento e adquirir mais conhecimento na área de desenvolvimento.
