@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Vieira, Estudante de TI👋
+## Desenvolvedor Front-end Junior.👋
 
 - 📘 Estudando Gestão de tecnologia da informação - 4° Semestre.
 - 📘 Estudando Desenvolvimento Web Full-Stack.
