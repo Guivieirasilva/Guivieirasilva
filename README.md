@@ -1,11 +1,9 @@
-## Desenvolvedor Front-end Junior.👋
+## Desenvolvedor Front-end.👋
 
-- 📘 Estudando Gestão de tecnologia da informação - 4° Semestre.
+- 📘 Graduando Gestão de tecnologia da informação.
 - 📘 Estudando Desenvolvimento Web Full-Stack.
-- 🌱 Atualmente estou aprendendo desenvolvimento Back-End.
+- 🌱 Atualmente estou aprendendo desenvolvimento Front-end/Mobile.
 - 😄 Pronouns: Ele/Dele.
-- 🔍 Em busca do primeiro emprego com Desenvolvedor Junior.
-- 🔍 Atualmente estou em busca de uma oportunidade para demonstrar oque aprendi até o momento e adquirir mais conhecimento na área de desenvolvimento.
  <br>
 <div align="center">
   <a href="https://github.com/Guivieirasilva">
