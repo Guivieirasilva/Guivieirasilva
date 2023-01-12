@@ -4,8 +4,7 @@
 - 📘 Estudando Desenvolvimento Web.
 - 🌱 Atualmente estou aprendendo desenvolvimento Front-end e Mobile.
 - 😄 Pronouns: Ele/Dele.
- <br>
-<span>Stacks</span>
+<h2>Stacks</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
