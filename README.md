@@ -1,8 +1,8 @@
 ## Desenvolvedor Front-end.👋
 
-- 📘 Graduando Gestão de tecnologia da informação.
-- 📘 Estudando Desenvolvimento Web.
-- 🌱 Atualmente estou aprendendo desenvolvimento Front-end e Mobile.
+- 👨‍🎓 Formado em Gestão de tecnologia da informação.
+- 📘 Estudando NextJS e Typescript.
+- 🌱 Atualmente estou apromorando meu conhecimento em desenvolvimento Front-end e Mobile.
 - 😄 Pronouns: Ele/Dele.
 <h2>Tecnologias que tenho Conhecimento</h2>
   <div style="display: inline_block"><br>
