@@ -28,6 +28,6 @@
  ## Contatos
   
   <div>
-  <a href="mailto:guivieirasilva02@gmail.com" target="_blank"><img align="center" alt="GMAIL" height="40" width="50" src="https://www.svgrepo.com/show/349379/gmail-old.svg"></a>
-  <a href="https://www.linkedin.com/in/guilherme-vieira-silva/" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"></a> 
+  <a href="mailto:guivieirasilva02@gmail.com" target="_blank"><img title="Gmail" align="center" alt="GMAIL" height="40" width="50" src="https://www.svgrepo.com/show/349379/gmail-old.svg"></a>
+  <a href="https://www.linkedin.com/in/guilherme-vieira-silva/" target="_blank"><img title="Linkedin" align="center" alt="Linkedin" height="40" width="50" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"></a> 
   </div>
