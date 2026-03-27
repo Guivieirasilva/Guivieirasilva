@@ -11,12 +11,6 @@ Além disso, possuo vivência em **desenvolvimento front-end**, criando interfac
 - Estudando **boas práticas DevOps**, **monitoramento** e **otimização de sistemas**.
 
 <h2>Tecnologias que tenho Conhecimento</h2>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guivieirasilva&theme=dracula&layout=compact&langs_count=4)](https://github.com/Guivieirasilva/github-readme-stats)
-
-
-### 🧠 Minhas Stacks
 
 | 💻 Front-end | ⚙️ Back-end | 🧩 Infraestrutura & Suporte |
 |:-------------:|:------------:|:---------------------------:|
